@@ -36,7 +36,7 @@ export default {
           name: 'Roblox',
           imageUrl: 'bumdesma',
           status: 'A gaming platform that allows users to create, share, and play games made by others, equipped with a virtual economy and creative building tools.',
-          tech: 'Lua Scripting, 3D Sandbox',
+          tech: 'Lua Scripting',
           github: 'null',
           demo: 'null'
         },
