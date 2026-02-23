@@ -15,12 +15,12 @@ export default {
         },
         {
           id: 2,
-          name: 'Lycoris Recoil',
+          name: 'Discord Bot',
           imageUrl: 'sahabatmuslim',
-          status: 'An anime that combines action and heartwarming moments, featuring Chisato and Takina as elite agents with a slice of life twist.',
-          tech: 'Action, Slice of Life',
+          status: 'Discord Bot fo server security and more',
+          tech: 'Python',
           github: 'null',
-          demo: 'https://myanimelist.net/anime/50709/Lycoris_Recoil'
+          demo: '`https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot+applications.commands&permissions=8`'
         },
         {
           id: 3,
