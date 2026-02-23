@@ -20,7 +20,7 @@ export default {
           status: 'Lyora Community is a powerful all-in-one Discord bot designed to help servers grow safely and efficiently. From security systems to games and economy features, Lyora makes community management simple and fun.',
           tech: 'Python',
           github: 'null',
-          demo: '`https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot+applications.commands&permissions=8`'
+          demo: 'https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot+applications.commands&permissions=8'
         },
         {
           id: 3,
